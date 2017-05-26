@@ -21,7 +21,7 @@ def getJsonContent(res):
 
 def main():
     # 配置您申请的APPKey
-    appkey = "2d43fbace2d819b1cb9aa24fae2a4a7b"
+    appkey = "****************"
     f = open("name.txt")  # 返回一个文件对象
     line = f.readline()  # 调用文件的 readline()方法
     nameList = list()
